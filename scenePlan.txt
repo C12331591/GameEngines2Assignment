@@ -1,0 +1,8 @@
+Scene 1:
+Takeoff sequence. Four ships fly through an enclosed area.
+
+Scene 2:
+Flying past some basic scenery on either side. Some enemies pass by to shoot at.
+
+Scene 3:
+Scenery becomes more dense. Ships move around buildings in their paths.
