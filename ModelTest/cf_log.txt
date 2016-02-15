@@ -1,0 +1,1 @@
+Warning: None triangle mesh: Arwing_SNES_high_poly_original (file: 'C:\Coding\Unity\gameengines2015\unity\ModelTest\Assets\arwing.fbx') [ (line 0)]
