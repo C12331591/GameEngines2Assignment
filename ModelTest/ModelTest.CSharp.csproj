@@ -62,9 +62,35 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AttackState.cs" />
     <Compile Include="Assets\Boid.cs" />
+    <Compile Include="Assets\Bullet.cs" />
+    <Compile Include="Assets\ChaseFoodState.cs" />
+    <Compile Include="Assets\DeadState.cs" />
+    <Compile Include="Assets\EnemySpawner.cs" />
     <Compile Include="Assets\FPSController.cs" />
+    <Compile Include="Assets\FSM.cs" />
+    <Compile Include="Assets\FishBrain.cs" />
+    <Compile Include="Assets\HuntState.cs" />
+    <Compile Include="Assets\IdleState.cs" />
+    <Compile Include="Assets\LeaderState.cs" />
+    <Compile Include="Assets\Noise\BackgroundWorker.cs" />
+    <Compile Include="Assets\Noise\NoiseForm.cs" />
+    <Compile Include="Assets\Noise\PerlinNoiseSampler.cs" />
+    <Compile Include="Assets\Noise\RandomTextureGenerator.cs" />
+    <Compile Include="Assets\Noise\Sampler.cs" />
+    <Compile Include="Assets\Noise\TextureGenerator.cs" />
+    <Compile Include="Assets\Path.cs" />
     <Compile Include="Assets\PathFollowing.cs" />
+    <Compile Include="Assets\PlayingState.cs" />
+    <Compile Include="Assets\State.cs" />
+    <Compile Include="Assets\Utilities.cs" />
+    <Compile Include="Assets\gun.cs" />
+    <Compile Include="Assets\health.cs" />
+    <Compile Include="Assets\patrolAround.cs" />
+    <Compile Include="Assets\patrolAroundState.cs" />
+    <Compile Include="Assets\playable.cs" />
+    <Compile Include="Assets\worldTiles.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
